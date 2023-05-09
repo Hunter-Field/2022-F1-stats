@@ -3,4 +3,4 @@ This was my final project for my engineering class which tasked me with picking 
 
 This was my first time using web scraping in a project. In scrape.py, I scrape the F1 website for the race results and starting grid positions and turn them into a folder of csv files that correlation.py then uses to create a plot of the correlation between starting and ending positions in one or all races.
 
-If the web scraping does not work, the folder is included as "races"
+If the web scraping does not work, the folder is included as "races".
